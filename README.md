@@ -1,7 +1,7 @@
 # Как запустить проект?
 
 Склонируйте репозиторий:
-## git clone https://github.com/fluplix3/table_test
+## git clone https://github.com/fluplix3/table_test.git
 
 Перейдите в папку с проектом:
 ## cd my-app
